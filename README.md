@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @margrami
-- 👀 I’m interested in subjects as Machine Learning and IOT.
+- 👀 I’m interested in Machine Learning and IOT.
 
 <!---
 margrami/margrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
